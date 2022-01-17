@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Переносим диаграмму ьлин\Переносим диаграмму ьлин\bin\Debug\Переносим диаграмму ьлин.exe.config
+C:\Users\1\source\repos\Переносим диаграмму ьлин\Переносим диаграмму ьлин\bin\Debug\Переносим диаграмму ьлин.exe
+C:\Users\1\source\repos\Переносим диаграмму ьлин\Переносим диаграмму ьлин\bin\Debug\Переносим диаграмму ьлин.pdb
+C:\Users\1\source\repos\Переносим диаграмму ьлин\Переносим диаграмму ьлин\obj\Debug\Переносим диаграмму ьлин.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Переносим диаграмму ьлин\Переносим диаграмму ьлин\obj\Debug\Переносим_диаграмму_ьлин.Form1.resources
+C:\Users\1\source\repos\Переносим диаграмму ьлин\Переносим диаграмму ьлин\obj\Debug\Переносим_диаграмму_ьлин.Properties.Resources.resources
+C:\Users\1\source\repos\Переносим диаграмму ьлин\Переносим диаграмму ьлин\obj\Debug\Переносим диаграмму ьлин.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Переносим диаграмму ьлин\Переносим диаграмму ьлин\obj\Debug\Переносим диаграмму ьлин.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Переносим диаграмму ьлин\Переносим диаграмму ьлин\obj\Debug\Переносим диаграмму ьлин.exe
+C:\Users\1\source\repos\Переносим диаграмму ьлин\Переносим диаграмму ьлин\obj\Debug\Переносим диаграмму ьлин.pdb
